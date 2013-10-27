@@ -30,7 +30,7 @@ Some items that I'm planning to implement when I find the time:
 
 I have put a simplified version of this script up on my server, altough I have removed write access. But you should get the idea.
 
-[(http://mbwb.info/php-worklog](http://mbwb.info/php-worklog)
+[http://mbwb.info/php-worklog](http://mbwb.info/php-worklog)
 
 ## Support
 
